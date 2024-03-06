@@ -149,3 +149,20 @@ img {
         width: 100%;
     }
 }
+
+/* 1160px - 768px */
+@media screen and (max-width: 1160px) and (min-width: 768px) {
+    .container{
+        width: 100%;
+    }
+}
+
+/* Mi dava fastidio il range tra i 768px e i 480px, quindi 
+ho voluto modificare anche questo */
+
+/* 768px - 480px */
+@media screen and (max-width: 768px) and (min-width: 420px) {
+    .container {
+        width: 100%;
+    }
+}
