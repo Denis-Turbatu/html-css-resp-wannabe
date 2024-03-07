@@ -148,6 +148,22 @@ img {
     .container .col {
         width: 100%;
     }
+
+    .why-us{
+        padding: 3rem;
+        background-color: black;
+        margin: 0 auto;
+    }
+
+    .steps{
+        margin: 0 auto;
+        padding: 3rem;
+    }
+
+    .lessons{
+        margin: 0 auto;
+        padding: 3rem;
+    }
 }
 
 /* 1160px - 768px */
